@@ -1,0 +1,156 @@
+.Component6{
+  margin-bottom: 10vh;
+  position: relative;
+  height: 80vh;
+  width: 80%;
+  margin-left: 6rem;
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  
+
+}
+.plus5{
+  position: absolute;
+  font-size: 45px;
+  left: 26%;
+  top: .1%;
+  font-weight: 300;
+  color: #4497e9db;
+}
+.feature6{
+  font-weight: 600;
+  font-size: 35px;
+  top: 8%;
+  position: absolute;
+}
+.box7{
+ border-radius: 5px ;
+  width: 80%;
+  box-shadow: 0 0 5px grey;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  height: 17%;
+  position: relative;
+}
+
+.common2{
+
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width:50% ;
+  height: 70%;
+}
+.plus6{
+  position: absolute;
+  cursor: pointer;
+  left: 90%;
+  font-weight: 300;
+  color: #4497e9db;
+}
+.abc{
+  height: 50%;
+  display: block;
+
+}
+.abc2{
+  position: absolute;
+  top: 1%;
+  cursor: pointer;
+  left: 89%;
+  top: -14%;
+  font-weight: 300;
+  color: #4497e9db;
+}
+.abc3{
+  display: block;
+
+}
+.Component7{
+  
+  background: linear-gradient(to right, #012455f7 ,#011837f7 ,#031329f7) ;
+  height: 60vh;
+  display: flex;
+
+}
+.box8{ 
+  width: 35%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.box9{
+  width: 65%;
+  height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+ul a{
+  color: #fff;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 10px 0;
+  display: block;
+}
+.feature7{
+margin-top: 3em;
+  margin-bottom: 40%;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 400;
+}
+.box18{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 33%;
+  flex-direction: column;
+}
+.logo11{
+
+  height: 50px;
+  
+  margin-left: 40px;
+  width: 50px;
+  background-color: #fff;
+}
+.box81{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+}
+.text5{
+  font-size: 25px;
+  font-weight: 500;
+  color: #fff;
+  margin-left: 15px;
+}
+.icon3{
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-top: 1.3em;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: rgba(255, 196, 0, 0.915);
+  margin-right: 8em;
+  color: #012455f7;
+
+}
+.a{
+  margin: 0 .4em;
+}
+.Harshit{
+  margin-bottom: 2%;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 300;
+}
+
+

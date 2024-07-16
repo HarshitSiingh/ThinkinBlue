@@ -1,0 +1,215 @@
+@media (max-width:1200px) {
+  .a{
+    font-size: 60px;
+  }
+  
+}
+@media (max-width:800px) {
+  .a{
+    font-size: 40px;
+  }
+  
+}
+@media (max-width:600px) {
+  .a{
+    font-size: 27px;
+  }
+  
+}
+@media (max-width:1200px) {
+  .d{
+    font-size: 14px;
+  }
+  
+}
+@media (max-width:900px) {
+  .d{
+    font-size: 12px;
+  }
+  
+}
+@media (max-width:700px) {
+  .d{
+    font-size:10px;
+  }
+  
+}
+@media (max-width:1200px) {
+  .c, .b{
+    
+    font-size: 14px;
+
+  }
+  
+}
+@media (max-width:1500px) {
+  .f{
+    font-size: 40px;
+  }
+  
+}
+@media (max-width:1200px) {
+  .f{
+    font-size: 33px;
+  }
+  
+  
+}
+@media (max-width:1100px) {
+  .f{
+    font-size: 25px;
+  }
+
+  
+}
+@media (max-width:800px) {
+  .f{
+    font-size: 18px;
+  }
+  
+}
+@media (max-width:500px) {
+  .f{
+    font-size: 16px;
+  }
+  
+}
+@media (max-width:1200px) {
+  .c, .b{
+    
+    font-size: 14px;
+
+  }
+  
+}
+@media (max-width:1000px) {
+  .c, .b{
+    
+    font-size: 11px;
+  }
+  
+}
+@media (max-width:800px) {
+  .c, .b{
+    
+    font-size: 8px;
+  }
+  
+}
+@media (max-width:600px) {
+  .c, .b{
+    
+    font-size: 5px;
+  }
+  
+}
+
+@media (max-width:1500px) {
+  .e{
+    width:20% ;
+  }
+  
+}
+@media (max-width:1200px) {
+  .e{
+    height: 60%;
+    width: 18% ;
+  }
+  
+}
+@media (max-width:800px) {
+  .e{
+    height: 45%;
+    width: 16%;
+  }
+  
+}
+@media (max-width:500px) {
+  .e{
+    height: 35%;
+    width: 14%;
+  }
+  
+}
+@media (max-width:1500px) {
+  .g{
+    width:80% ;
+  }
+  
+}
+@media (max-width:1200px) {
+  .g{
+    width: 70% ;
+  }
+  
+}
+@media (max-width:800px) {
+  .g{
+    width: 60%;
+  }
+  
+}
+@media (max-width:500px) {
+  .g{
+    width: 50%;
+  }
+  
+}
+@media (max-width:1500px) {
+  .h{
+   
+  font-size: 20px ;
+}
+  
+}
+@media (max-width:1200px) {
+  .h{
+   
+    font-size:18px ;
+  }
+  
+}
+@media (max-width:800px) {
+  .h{
+   
+  font-size: 16px;}
+  
+}
+@media (max-width:500px) {
+  .h{
+   
+  font-size: 12px ;}
+  
+}
+@media (max-width:1500px) {
+  .j{
+   
+  padding: 5px 18px;
+  font-size: 18px;
+}
+  
+}
+@media (max-width:1200px) {
+  .j{
+   
+padding : 4px 16px ;
+font-size: 16;
+  }
+  
+}
+@media (max-width:800px) {
+  .j{
+   
+  padding: 3.5px 14.5px ;
+  font-size: 14px ;
+  
+}
+}
+@media (max-width:400px) {
+  .j{
+   
+    font-size: 2px 13px;
+  padding: 12px;}
+  
+}
+
